@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2314" started-at="2023-07-18T09:28:27Z" finished-at="2023-07-18T09:28:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2314" started-at="2023-07-18T09:28:27Z" finished-at="2023-07-18T09:28:29Z">
+      <class name="com.Test.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Test.LoginTest@525f1e4e]" name="setup" is-config="true" duration-ms="8585" started-at="2023-07-18T09:28:18Z" finished-at="2023-07-18T09:28:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.Test.LoginTest@525f1e4e]" name="test01" duration-ms="1919" started-at="2023-07-18T09:28:27Z" finished-at="2023-07-18T09:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.Test.LoginTest@525f1e4e]" name="test02" duration-ms="191" started-at="2023-07-18T09:28:29Z" finished-at="2023-07-18T09:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:com.Test.LoginTest@525f1e4e]" name="test03" duration-ms="129" started-at="2023-07-18T09:28:29Z" finished-at="2023-07-18T09:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+      </class> <!-- com.Test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
